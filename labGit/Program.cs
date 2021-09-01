@@ -12,6 +12,7 @@ namespace labGit
         {
             int a = 5;
             Console.WriteLine("Hello World!");
+            int b = a + 12;
         }
     }
 }
